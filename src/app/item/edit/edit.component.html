@@ -1,0 +1,35 @@
+<div class="container mt-4">
+  <div class="row justify-content-center">
+    <div class="col-md-6">
+      <div class="card shadow-sm">
+        <div class="card-header bg-gradient text-white py-3" style="background-color: #3a86ff;">
+          <h5 class="mb-0">Edit Item</h5>
+        </div>
+        <div class="card-body">
+          <form>
+            <div class="mb-3">
+              <label for="name" class="form-label">Name</label>
+              <input type="text" class="form-control" name="name" [(ngModel)]="item.name" id="name" placeholder="Enter name">
+            </div>
+            <div class="mb-3">
+              <label for="category" class="form-label">Category</label>
+              <input type="text" class="form-control" name="category" id="category" [(ngModel)]="item.category" placeholder="Enter category">
+            </div>
+            <div class="mb-3">
+              <label for="brand" class="form-label">Brand</label>
+              <input type="text" class="form-control" name="brand" [(ngModel)]="item.brand" id="brand" placeholder="Enter brand">
+            </div>
+            <div class="d-flex justify-content-between mt-4">
+              <button type="button" (click)="cancel()" class="btn btn-outline-secondary">
+                <i class="bi bi-x-circle me-1"></i> Cancel
+              </button>
+              <button type="submit" (click)="update()" class="btn text-white" style="background-color: #3a86ff;">
+                <i class="bi bi-check-circle me-1"></i> Save Changes
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

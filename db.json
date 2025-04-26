@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": 100,
+      "name": "Pixel8Pro",
+      "category": "SmartPhone",
+      "brand": "Google"
+    },
+    {
+      "id": 101,
+      "name": "MacBook",
+      "category": "LAPTOP",
+      "brand": "Apple"
+    },
+    {
+      "id": 102,
+      "name": "A95L",
+      "category": "Television",
+      "brand": "SONY"
+    },
+    {
+      "id": 103,
+      "name": "SurfacePro",
+      "category": "LAPTOP",
+      "brand": "Microsoft"
+    },
+    {
+      "id": 104,
+      "name": "iphone15",
+      "category": "SmartPhone",
+      "brand": "Apple"
+    },
+    {
+      "id": 105,
+      "name": "LG80",
+      "category": "Television",
+      "brand": "LG"
+    },
+    {
+      "id": 106,
+      "name": "NitroV",
+      "category": " Laptop",
+      "brand": " Acer"
+    },
+    {
+      "id": 107,
+      "name": "TUF",
+      "category": "Laptop",
+      "brand": "Asus"
+    }
+  ]
+}
