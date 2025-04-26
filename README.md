@@ -1,4 +1,7 @@
 # JsonApp
+![image alt](https://github.com/altjimsss/Angular-CRUD-App-with-JSON-Server/blob/0d928d1ac0b1f328105f81b33769edf6cc91c78e/Screenshot%202025-04-26%20182651.png)
+![image alt](https://github.com/altjimsss/Angular-CRUD-App-with-JSON-Server/blob/0d928d1ac0b1f328105f81b33769edf6cc91c78e/Screenshot%202025-04-26%20182921.png)
+![image alt](https://github.com/altjimsss/Angular-CRUD-App-with-JSON-Server/blob/0d928d1ac0b1f328105f81b33769edf6cc91c78e/Screenshot%202025-04-26%20183015.png)
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.9.
 
